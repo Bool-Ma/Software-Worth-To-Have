@@ -6,8 +6,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Markdown
 
-### [QQ五笔](http://qq.pinyin.cn/wubi/?_blank)
-### [7-zip](https://www.7-zip.org/?_blank)
+### [QQ五笔](http://qq.pinyin.cn/wubi/){:target="\_blank"}
+### [7-zip](https://www.7-zip.org/){:target="\_blank"}
 ### [Snipaste](https://www.snipaste.com/?_blank)
 ### [Dbeaver](https://dbeaver.io/?_blank)
 ### [Agent Ransack](https://www.mythicsoft.com/agentransack/?_blank)
