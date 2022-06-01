@@ -7,6 +7,26 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ### Markdown
 
 ### [QQ五笔](http://qq.pinyin.cn/wubi/)
+### [7-zip](https://www.7-zip.org/)
+### [Snipaste](https://www.snipaste.com/)
+### [Dbeaver](https://dbeaver.io/)
+### [Agent Ransack](https://www.mythicsoft.com/agentransack/)
+### [Fiddler](https://www.telerik.com/fiddler)
+### [Git for Windows](https://git-scm.com/download/win)
+### [Git Extensions](https://gitextensions.github.io/)
+### [Sumatra PDF Reader](https://www.sumatrapdfreader.org/download-free-pdf-viewer)
+### [Fiddler](https://www.telerik.com/fiddler)
+### [ILSpy](https://github.com/icsharpcode/ILSpy/releases)
+### [Visual Studio Code](https://code.visualstudio.com/)
+### [WinMerge](https://winmerge.org/?lang=en)
+### [Playwright](https://playwright.dev/)
+### [PowerToys](https://github.com/microsoft/PowerToys)
+### [Terminal](https://github.com/microsoft/terminal)
+### [RabbitMQ](https://www.rabbitmq.com/)
+### [SQL Server Management Studio](https://docs.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver15)
+### [PostgreSQL](https://www.postgresql.org/)
+### [MongoDB](https://www.mongodb.com/)
+### [Virtual Box](https://www.virtualbox.org/)
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
