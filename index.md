@@ -8,25 +8,25 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### [QQ五笔](http://qq.pinyin.cn/wubi/){:target="\_blank"}
 ### [7-zip](https://www.7-zip.org/){:target="\_blank"}
-### [Snipaste](https://www.snipaste.com/?_blank)
-### [Dbeaver](https://dbeaver.io/?_blank)
-### [Agent Ransack](https://www.mythicsoft.com/agentransack/?_blank)
-### [Fiddler](https://www.telerik.com/fiddler?_blank)
-### [Git for Windows](https://git-scm.com/download/win?_blank)
-### [Git Extensions](https://gitextensions.github.io/?_blank)
-### [Sumatra PDF Reader](https://www.sumatrapdfreader.org/download-free-pdf-viewer?_blank)
-### [Fiddler](https://www.telerik.com/fiddler?_blank)
-### [ILSpy](https://github.com/icsharpcode/ILSpy/releases?_blank)
-### [Visual Studio Code](https://code.visualstudio.com/?_blank)
-### [WinMerge](https://winmerge.org/?lang=en?_blank)
-### [Playwright](https://playwright.dev/?_blank)
-### [PowerToys](https://github.com/microsoft/PowerToys?_blank)
-### [Terminal](https://github.com/microsoft/terminal?_blank)
-### [RabbitMQ](https://www.rabbitmq.com/?_blank)
-### [SQL Server Management Studio](https://docs.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver15?_blank)
-### [PostgreSQL](https://www.postgresql.org/?_blank)
-### [MongoDB](https://www.mongodb.com/?_blank)
-### [Virtual Box](https://www.virtualbox.org/?_blank)
+### [Snipaste](https://www.snipaste.com/){:target="\_blank"}
+### [Dbeaver](https://dbeaver.io/){:target="\_blank"}
+### [Agent Ransack](https://www.mythicsoft.com/agentransack/){:target="\_blank"}
+### [Fiddler](https://www.telerik.com/fiddler){:target="\_blank"}
+### [Git for Windows](https://git-scm.com/download/win){:target="\_blank"}
+### [Git Extensions](https://gitextensions.github.io/){:target="\_blank"}
+### [Sumatra PDF Reader](https://www.sumatrapdfreader.org/download-free-pdf-viewer){:target="\_blank"}
+### [Fiddler](https://www.telerik.com/fiddler){:target="\_blank"}
+### [ILSpy](https://github.com/icsharpcode/ILSpy/releases){:target="\_blank"}
+### [Visual Studio Code](https://code.visualstudio.com/){:target="\_blank"}
+### [WinMerge](https://winmerge.org/?lang=en){:target="\_blank"}
+### [Playwright](https://playwright.dev/){:target="\_blank"}
+### [PowerToys](https://github.com/microsoft/PowerToys){:target="\_blank"}
+### [Terminal](https://github.com/microsoft/terminal){:target="\_blank"}
+### [RabbitMQ](https://www.rabbitmq.com/){:target="\_blank"}
+### [SQL Server Management Studio](https://docs.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver15){:target="\_blank"}
+### [PostgreSQL](https://www.postgresql.org/){:target="\_blank"}
+### [MongoDB](https://www.mongodb.com/){:target="\_blank"}
+### [Virtual Box](https://www.virtualbox.org/){:target="\_blank"}
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
